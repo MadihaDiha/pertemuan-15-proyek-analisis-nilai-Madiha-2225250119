@@ -2,8 +2,8 @@
 
 | **Keterangan** | **Data** |
 |---|---|
-| **Nama** | Masya Bantani |
-| **NIM** | 2225250113 |
+| **Nama** | Madiha |
+| **NIM** | 2225250119 |
 | **Kelas** | 3-E |
 | **Jurusan** | Pendidikan Matematika |
 
@@ -42,7 +42,7 @@ python3 tests/test_proyek.py
 ## Struktur Folder
 
 ```
-pertemuan-15-proyek-analisis-nilai-2225250113/
+pertemuan-15-proyek-analisis-nilai-2225250119/
 |-- README.md
 |-- .gitignore
 |-- main.py                  (menu utama)
@@ -96,7 +96,7 @@ Detail penyebab dan perbaikan ada di [docs/bug_log.md](docs/bug_log.md).
 
 | Nama | NIM | Kontribusi |
 |---|---|---|
-| Masya Bantani | 2225250113 | Perancangan, implementasi, pengujian, debugging, dan dokumentasi |
+| Madiha | 2225250119 | Perancangan, implementasi, pengujian, debugging, dan dokumentasi |
 
 ## Referensi/Bantuan
 
